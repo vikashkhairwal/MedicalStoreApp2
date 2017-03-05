@@ -1,0 +1,47 @@
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.config
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.pdb
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.loginform.resources
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.Properties.Resources.resources
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.csproj.GenerateResource.Cache
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.exe
+c:\users\vikash khairwal\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.pdb
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MetroFramework.dll
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.MedicalStoreApp.resources
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.manifest
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.application
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.exe.manifest
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.application
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.CodeAnalysisLog.xml
+C:\Users\VIKASH KHAIRWAL\documents\visual studio 2013\Projects\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.lastcodeanalysissucceeded
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.config
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.exe
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.pdb
+C:\Users\VIKASH KHAIRWAL\Desktop\DESKTOP\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.config
+C:\Users\VIKASH KHAIRWAL\Desktop\DESKTOP\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.exe
+C:\Users\VIKASH KHAIRWAL\Desktop\DESKTOP\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.pdb
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe.manifest
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.application
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.exe
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MedicalStoreApp.pdb
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MetroFramework.dll
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.loginform.resources
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.MedicalStoreApp.resources
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.Properties.Resources.resources
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.csproj.GenerateResource.Cache
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.exe.manifest
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.application
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.Admin.resources
+C:\Users\VIKASH KHAIRWAL\Desktop\MedicalStoreApp\MedicalStoreApp\obj\Debug\MedicalStoreApp.csprojResolveAssemblyReference.cache
